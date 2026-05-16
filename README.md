@@ -158,12 +158,11 @@ I am currently focused on improving:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=techwithmohitgupta&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Mohit's GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=techwithmohitgupta&theme=default&hide_border=true" alt="Mohit's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techwithmohitgupta&theme=default&hide_border=true" alt="Mohit's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techwithmohitgupta&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=techwithmohitgupta&theme=github" alt="Mohit's GitHub Profile Summary" />
 </p>
 
 ---
