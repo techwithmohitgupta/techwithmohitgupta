@@ -1,127 +1,154 @@
+<div align="center">
+
 # Hi 👋, I'm Mohit Gupta
 
-<h2 align="left">Aspiring Data Analyst | Business Insights | Dashboard Developer</h2>
+### Aspiring Data Analyst | Business Insights | Dashboard Developer
 
-<p align="left">
-I turn raw data into clear, meaningful, and actionable business insights through dashboards, analysis, KPIs, and business storytelling.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2500&pause=800&color=0969DA&center=true&vCenter=true&width=900&lines=Turning+Raw+Data+into+Business+Insights;Building+Dashboards+with+Python%2C+SQL%2C+Power+BI+%26+Tableau;Focused+on+Marketing%2C+E-commerce%2C+Supply+Chain+%26+Business+Analytics;Learning%2C+Building+and+Solving+Real-World+Data+Problems" alt="Typing SVG" />
 
-<p align="left">
-I enjoy solving real-world business problems using <b>Python, SQL, Power BI, Tableau, Excel, Streamlit, and Plotly</b>.
-</p>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=techwithmohitgupta&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/techwithmohitgupta?label=Followers&style=for-the-badge&color=0969DA" alt="GitHub Followers" />
+<img src="https://img.shields.io/github/stars/techwithmohitgupta?label=GitHub%20Stars&style=for-the-badge&color=F2C811" alt="GitHub Stars" />
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 BBA Graduate with a strong interest in **Data Analytics and Business Intelligence**
-- 📊 Skilled in **Python, SQL, Excel, Power BI, Tableau, Streamlit, and Plotly**
-- 📈 Building real-world analytics projects in **Marketing, E-commerce, Retail, Supply Chain, and Business Analytics**
-- 🧠 Passionate about **dashboard development, KPI tracking, business insights, and data storytelling**
-- 💼 Open to **Data Analyst roles, internships, freelance analytics projects, and portfolio collaborations**
-- 🌱 Currently improving my skills in **Advanced SQL, Power BI, Python Analytics, and Business Problem Solving**
+I am an aspiring **Data Analyst** focused on turning raw data into clear, meaningful, and actionable business insights.  
+My work mainly revolves around **data cleaning, dashboard development, business analysis, KPI tracking, and data storytelling**.
+
+I enjoy solving real-world business problems using **Python, SQL, Power BI, Tableau, Excel, Streamlit, and Plotly**.
+
+<br>
+
+<div align="center">
+
+| 🎯 Area | 💡 What I Do |
+|---|---|
+| 📊 Data Analytics | Clean, analyze, and interpret business data |
+| 📈 Dashboard Development | Build interactive dashboards and KPI reports |
+| 🧠 Business Insights | Convert analysis into decision-friendly insights |
+| 🛠️ Tools | Python, SQL, Power BI, Tableau, Excel, Streamlit |
+| 💼 Goal | Data Analyst roles, internships, freelance projects, and portfolio collaborations |
+
+</div>
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack & Tools
 
-### 📊 Data Analytics & BI Tools
+<div align="center">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-</p>
+### 📊 Data Analytics & Business Intelligence
+
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 
 ### 🧑‍💻 Programming & Database
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 
 ### 📦 Python Libraries & Dashboard Tools
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-</p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 
 ### 🌐 Web & Development Tools
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+
+</div>
 
 ---
 
 ## 📌 Featured Analytics Projects
 
-### 🚚 1. Nassau Candy Shipping Route Efficiency Analysis
+<table>
+<tr>
+<td width="50%">
+
+### 🚚 Nassau Candy Shipping Route Efficiency Analysis
 
 A logistics analytics dashboard focused on identifying shipping delays, route bottlenecks, lead time issues, and state-level delivery performance.
 
 **Key Highlights**
+- Route-level shipping efficiency analysis  
+- Average lead time, delay frequency, and route volume tracking  
+- Geographic bottleneck identification  
+- Interactive logistics dashboard views  
 
-- Analyzed route-level shipping efficiency
-- Tracked average lead time, delay frequency, and route volume
-- Identified geographic bottlenecks and delivery performance issues
-- Built interactive dashboard views for logistics decision-making
+**Tools:** Python, Pandas, Streamlit, Plotly
 
-**Tools Used:** Python, Pandas, Streamlit, Plotly, Data Cleaning, Business Analytics
+</td>
+<td width="50%">
 
----
-
-### 💰 2. Product Line Profitability & Margin Performance Analysis
+### 💰 Product Line Profitability & Margin Performance Analysis
 
 A profitability dashboard designed to analyze product margins, division performance, cost risk, and profit concentration.
 
 **Key Highlights**
+- Gross margin and profit-per-unit analysis  
+- Product margin leaderboard  
+- Cost vs margin diagnostics  
+- Pareto profit concentration analysis  
 
-- Analyzed gross margin, profit per unit, and revenue contribution
-- Built product-level margin leaderboard and division performance view
-- Added cost vs margin diagnostics and margin risk monitoring
-- Used Pareto analysis to identify products driving major profit contribution
+**Tools:** Python, Pandas, Streamlit, Plotly
 
-**Tools Used:** Python, Pandas, Streamlit, Plotly, KPI Analysis, Business Intelligence
+</td>
+</tr>
 
----
+<tr>
+<td width="50%">
 
-### 🛒 3. E-commerce Sales & Product Performance Analysis
+### 🛒 E-commerce Sales & Product Performance Analysis
 
-An analytics project focused on product sales, revenue trends, customer behavior, and category-level performance.
+An analytics project focused on product sales, revenue trends, customer behavior, and category-level business performance.
 
 **Key Highlights**
+- Sales and product performance trends  
+- Revenue pattern identification  
+- Category-level insights  
+- Marketing and product decision support  
 
-- Analyzed sales and product performance trends
-- Identified revenue patterns and business growth opportunities
-- Created insights for better product and marketing decisions
+**Tools:** Python, Excel, SQL, Power BI
 
-**Tools Used:** Python, Excel, SQL, Power BI
+</td>
+<td width="50%">
 
----
-
-### 🧠 4. SQL Business Analysis Case Studies
+### 🧠 SQL Business Analysis Case Studies
 
 A collection of SQL-based business analysis projects focused on solving real-world data problems through structured queries.
 
 **Key Highlights**
+- Joins, CTEs, aggregations, and subqueries  
+- Window functions and business queries  
+- Analytical thinking practice  
+- Decision-ready SQL outputs  
 
-- Practiced joins, CTEs, aggregations, subqueries, and window functions
-- Solved business questions using SQL
-- Focused on analytical thinking and decision-ready outputs
+**Tools:** SQL, MySQL/PostgreSQL, Business Analysis
 
-**Tools Used:** SQL, MySQL/PostgreSQL, Business Analysis
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🎯 Analytics Domains I Focus On
+
+<div align="center">
 
 | Domain | Focus Area |
 |---|---|
@@ -132,50 +159,125 @@ A collection of SQL-based business analysis projects focused on solving real-wor
 | 💰 Finance Analytics | Profitability, margins, revenue, cost analysis |
 | 📊 Business Analytics | KPI dashboards, reporting, insights, decision support |
 
+</div>
+
 ---
 
 ## 📊 Current Learning Focus
 
-I am currently focused on improving:
+<div align="center">
 
-- Advanced SQL for business analytics
-- Power BI dashboard development
-- Python-based exploratory data analysis
-- Streamlit dashboard building
-- Data storytelling and insight presentation
-- Business problem-solving using analytics
+| Skill Area | Current Focus |
+|---|---|
+| SQL | Advanced queries, joins, CTEs, window functions |
+| Power BI | Dynamic dashboards, slicers, DAX, report storytelling |
+| Python | EDA, data cleaning, KPI logic, visualization |
+| Streamlit | Interactive analytics dashboards |
+| Business Analytics | Problem solving, insights, recommendations |
+| Data Storytelling | Presenting insights clearly for business decisions |
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=techwithmohitgupta&theme=flat&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+
+</div>
 
 ---
 
 ## 🟩 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=techwithmohitgupta&theme=github-compact&hide_border=true&area=true" alt="Mohit's GitHub Activity Graph" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=techwithmohitgupta&theme=github-compact&hide_border=true&area=true" alt="Mohit's GitHub Activity Graph" />
+
+</div>
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techwithmohitgupta&theme=default&hide_border=true" alt="Mohit's GitHub Streak" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=techwithmohitgupta&theme=github" alt="Mohit's GitHub Profile Summary" />
-</p>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=techwithmohitgupta&theme=default&hide_border=true" alt="Mohit's GitHub Streak" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=techwithmohitgupta&theme=github" alt="Mohit's GitHub Stats" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=techwithmohitgupta&theme=github" alt="Top Languages by Repo" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=techwithmohitgupta&theme=github" alt="Most Used Languages by Commit" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=techwithmohitgupta&theme=github" alt="Mohit's GitHub Profile Summary" />
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/techwithmohitgupta/techwithmohitgupta/output/snake.svg" alt="Snake animation" />
+
+</div>
+
+> Note: Snake animation will work only after adding GitHub Actions workflow for snake contribution graph.
 
 ---
 
 ## 🤝 Let's Connect
 
-- 🔗 **LinkedIn:** [Mohit Gupta](https://www.linkedin.com/in/mohitgupta-data-analyst/)
-- 💻 **GitHub:** [techwithmohitgupta](https://github.com/techwithmohitgupta)
-- 🌐 **Portfolio:** [techwithmohitgupta.github.io](https://techwithmohitgupta.github.io/)
-- 📧 **Email:** digitalmohitgupta.work@gmail.com
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mohitgupta-data-analyst/">
+  <img src="https://img.shields.io/badge/LinkedIn-Mohit%20Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/techwithmohitgupta">
+  <img src="https://img.shields.io/badge/GitHub-techwithmohitgupta-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://techwithmohitgupta.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-Live%20Website-0969DA?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+<a href="mailto:digitalmohitgupta.work@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
 ## 💡 My Data Mindset
 
-> “Data is not just numbers. It is a story waiting to be understood.”
+<div align="center">
+
+### “Data is not just numbers. It is a story waiting to be understood.”
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my GitHub profile! ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0969DA,100:2EA043&height=120&section=footer" />
+
+</div>
