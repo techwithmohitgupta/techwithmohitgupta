@@ -256,10 +256,6 @@ A collection of SQL-based business analysis projects focused on solving real-wor
   <img src="https://img.shields.io/badge/GitHub-techwithmohitgupta-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://techwithmohitgupta.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-Live%20Website-0969DA?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-
 <a href="mailto:digitalmohitgupta.work@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
